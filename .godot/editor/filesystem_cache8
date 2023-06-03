@@ -1,0 +1,9 @@
+2a60927148abd1d33b818b535e306557
+::res://::1685825089
+biomes.png::CompressedTexture2D::957689008474773455::1685041774::1685722132::1::::<><>::
+empty_land.png::CompressedTexture2D::8583290145125273192::1685041307::1685722132::1::::<><>::
+icon.svg::CompressedTexture2D::4871009215971326438::1685722062::1685722095::1::::<><>::
+Player.gd::GDScript::-1::1685723243::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::8640613226787269592::1685723307::0::1::::<><>::res://Player.gd<>uid://cbns2srdptjes
+world.gd::GDScript::-1::1685723307::0::1::::<>Node2D<>::
+world.tscn::PackedScene::3488237499610614449::1685723307::0::1::::<><>::uid://duj2sgcd3jmvg<>res://world.gd<>uid://nv5860lot2nr<>uid://dvdtvw41nu1s3
